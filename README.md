@@ -1,5 +1,5 @@
-# Drawl Nag
-Simple WhatsApp Bot
+# ⚚Х-ՏᎪᎠ⚚
+Siple WhatsApp Bot
 
 ### FOR TERMUX USER
 ```bash
